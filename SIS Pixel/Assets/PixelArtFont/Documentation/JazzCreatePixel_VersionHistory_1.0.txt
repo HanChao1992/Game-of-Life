@@ -1,0 +1,37 @@
+﻿                          JazzCreateFont PixelArt Version History_1.0  date format = (dd/mm/yy)
+
+
+Version 1.0 - First time Submission, sent for approval onto the asset store.
+Version 1.0 - Submitted (20/09/2015)
+version 1.1 - a) Added new .tff to the JazzCreatePixelArt Family JazzCreatePixelArtExt (193 usable font characters)
+              b) added UI images for Font Demo Scene
+              c) added preview of new font to demo scene in script
+              d) added panel and txt elements to display new font .ttf
+              e) corrected number of usable fonts listed from 149 < 148 in the standard JazzCreatePixelArt .ttf
+              f) Re-designed store icons
+              g) changed description of package to put emphasis that the font is a family with present 4x .tff available. 
+              h) added alt document for the new .ttf JazzCreatePixelArtExt font.
+Version 1.1 Submitted (21/11/2015)
+Version 1.2 a) added JazzCreatePixelArt(lite) .ttf to package,
+               so users who already paid for this package won't require purchase of lite edition
+            b) update to Unity 5.3
+            c) update store meta/description and icons to reflex extra .ttf
+Version 1.2 submitted (30/01/2016) 
+Version 1.3 a) added complimentry font JazzCreate Blocky 193 characters
+             b) changed line spacing on demo font scene text , to stop size of text being reduced to much.
+             c) rename store font to PixelArt Font (Full Version)
+             d) adjust store meta data 
+Version 1.3 submitted (11/02/2016)
+Version 1.4 a) added PixelArt Font 3D world space capital letters, numbers and 4 symbols !?.,
+            b) added to demo scene the new 3D characters to showcase
+Version 1.4 Submitted (03/04/2016)
+Version 1.5 a) added PixelArt Font 3D world space small case letters
+            b) added small case letters to demo scene
+            c) re-designed store icons, to include 3D characters into description
+            d) small tweaks to meta-data (correct spacing add small case to content list)
+            e) add 6 more symbols
+            f) re-structure 3D character folders, so capital letter , smallcase, numbers, symbols have own folder.
+            g) add more screen-shots to store
+Version 1.5 Submitted (11/04/2016)
+           
+JazzCreate©2015-2016.
